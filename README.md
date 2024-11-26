@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @munpwd
-- 👀 I’m interested in learning to code and playing boomer shooters.
+- 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Web and Python.
 - 😄 Pronouns: he/him
 
