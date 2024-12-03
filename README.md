@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munpwd
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Web and Python.
+- 🌱 I’m currently learning Web development mostly using React.
 - 😄 Pronouns: he/him
 
 <!---
